@@ -1,0 +1,24 @@
+{
+  "name": "js_trick",
+  "version": "1.0.0",
+  "description": "a collection of usefull javascript triks",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adnenre/js_tricks.git"
+  },
+  "keywords": [
+    "javascript",
+    "triks"
+  ],
+  "author": "adnen.rebai@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adnenre/js_tricks/issues"
+  },
+  "homepage": "https://github.com/adnenre/js_tricks#readme"
+}
